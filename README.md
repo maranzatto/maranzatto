@@ -5,6 +5,12 @@ Sou um desenvolvedor apaixonado por criar aplicações modernas e eficientes, se
 
 ---
 
+📫 Me encontre por aqui:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maranzatto](https://www.linkedin.com/in/amitaelmaranzatto/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amitael_maranzatto/).
+
+---
+
 ## 💻 Tecnologias que atuo
 
 <div>
@@ -32,14 +38,3 @@ Sou um desenvolvedor apaixonado por criar aplicações modernas e eficientes, se
 ## 📈 Estatísticas GitHub
 
 ![Maranzatto GitHub stats](https://github-readme-stats.vercel.app/api?username=maranzatto&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## ⚡ Frase motivacional
-
-> "Código limpo é código feliz. Sempre busque melhorar e aprender." ✨
-
----
-
-📫 Me encontre por aqui:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maranzatto](https://www.linkedin.com/in/amitaelmaranzatto/))
