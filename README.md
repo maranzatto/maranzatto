@@ -44,9 +44,3 @@ Sou um desenvolvedor apaixonado por criar aplicações modernas e eficientes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </p>
-
----
-
-## 📈 Estatísticas GitHub
-
-![Maranzatto GitHub stats](https://github-readme-stats.vercel.app/api?username=maranzatto&show_icons=true&theme=tokyonight&count_private=true)
