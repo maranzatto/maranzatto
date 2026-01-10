@@ -16,9 +16,8 @@ Crio aplicações modernas, escaláveis e focadas em experiência do usuário.
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maranzatto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=maranzatto&theme=tokyonight&hide_border=true" />
 </p>
 
 
